@@ -1,4 +1,4 @@
-# Moana - 一款帮助听障人士的watchOS应用程序
+# Moana - 一款帮助听障人士的watchOS应用程序 🪻
 
 [![ru][localfile_svg_ru]][localfile_readme_ru]
 [![en][localfile_svg_en]][localfile_readme_en]
