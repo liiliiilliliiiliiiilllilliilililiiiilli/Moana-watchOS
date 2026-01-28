@@ -1,4 +1,4 @@
-# Moana - приложение для watchOS в помощь слабослышащим
+# Moana - приложение под watchOS в помощь слабослышащим
 
 [![ru][localfile_svg_ru]][localfile_readme_ru]
 [![en][localfile_svg_en]][localfile_readme_en]
