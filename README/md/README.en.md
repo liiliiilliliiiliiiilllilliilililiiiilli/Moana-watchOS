@@ -1,10 +1,10 @@
-# Moana - a watchOS app to help the hearing-impaired 🪻
+# Moana - a watchOS app to help the hearing-impaired🪻
 
 [![ru][localfile_svg_ru]][localfile_readme_ru]
 [![en][localfile_svg_en]][localfile_readme_en]
 [![zh][localfile_svg_zh]][localfile_readme_zh]
 
-An app that helps transform what's happening around you into live audio transcription.
+An app that converts speech and ambient sounds into live audio transcription.
 You can create preset phrases and use the built-in translator.
 
 Everything works offline!
