@@ -9,9 +9,9 @@
 
 Абсолютно все работает оффлайн!
 
-[localfile_switch_ru]: /README/md/svg/ru.svg
-[localfile_switch_en]: /README/md/svg/en.svg
-[localfile_switch_zh]: /README/md/svg/zh.svg
+[localfile_switch_ru]: /README/md/switches/ru.svg
+[localfile_switch_en]: /README/md/switches/en.svg
+[localfile_switch_zh]: /README/md/switches/zh.svg
 
 [localfile_readme_ru]: /README/md/README.ru.md
 [localfile_readme_en]: /README/md/README.en.md
