@@ -4,7 +4,7 @@
 [![en][localfile_switch_en]][localfile_readme_en]
 [![zh][localfile_switch_zh]][localfile_readme_zh]
 
-**[⟶ The main repository of the project][link_general_repository]**
+**[The main repository of the project][link_general_repository]**
 
 An app that converts speech and ambient sounds into live audio transcription.
 You can create preset phrases and use the built-in translator.

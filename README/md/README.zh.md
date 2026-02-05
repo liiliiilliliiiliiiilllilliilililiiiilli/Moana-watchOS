@@ -4,7 +4,7 @@
 [![en][localfile_switch_en]][localfile_readme_en]
 [![zh][localfile_switch_zh]][localfile_readme_zh]
 
-**[⟶ 项目的主要代码库][link_general_repository]**
+**[项目的主要代码库][link_general_repository]**
 
 一款可以将语音和环境声音转换为实时音频转录的应用程序。
 您可以创建预设短语并使用内置翻译器。

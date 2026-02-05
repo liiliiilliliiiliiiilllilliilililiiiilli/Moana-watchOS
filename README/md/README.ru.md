@@ -4,7 +4,7 @@
 [![en][localfile_switch_en]][localfile_readme_en]
 [![zh][localfile_switch_zh]][localfile_readme_zh]
 
-**[⟶ Главный репозиторий проекта][link_general_repository]**
+**[Главный репозиторий проекта][link_general_repository]**
 
 Приложение, позволяющее преобразовывать речь и окружающие звуки в живую аудио-транскрипцию.
 Можно создавать заготовки фраз, а также использовать встроенный переводчик.
