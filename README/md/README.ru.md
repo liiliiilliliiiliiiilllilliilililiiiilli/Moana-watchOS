@@ -4,6 +4,8 @@
 [![en][localfile_switch_en]][localfile_readme_en]
 [![zh][localfile_switch_zh]][localfile_readme_zh]
 
+**[⟶ Главный репозиторий проекта][link_general_repository]**
+
 Приложение, позволяющее преобразовывать речь и окружающие звуки в живую аудио-транскрипцию.
 Можно создавать заготовки фраз, а также использовать встроенный переводчик.
 
@@ -16,3 +18,5 @@
 [localfile_readme_ru]: /README/md/README.ru.md
 [localfile_readme_en]: /README/md/README.en.md
 [localfile_readme_zh]: /README/md/README.zh.md
+
+[link_general_repository]: https://github.com/liiliiilliliiiliiiilllilliilililiiiilli/Moana

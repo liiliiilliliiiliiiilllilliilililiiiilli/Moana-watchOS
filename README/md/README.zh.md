@@ -4,6 +4,8 @@
 [![en][localfile_switch_en]][localfile_readme_en]
 [![zh][localfile_switch_zh]][localfile_readme_zh]
 
+**[⟶ 项目的主要代码库][link_general_repository]**
+
 一款可以将语音和环境声音转换为实时音频转录的应用程序。
 您可以创建预设短语并使用内置翻译器。
 
@@ -16,3 +18,5 @@
 [localfile_readme_ru]: /README/md/README.ru.md
 [localfile_readme_en]: /README/md/README.en.md
 [localfile_readme_zh]: /README/md/README.zh.md
+
+[link_general_repository]: https://github.com/liiliiilliliiiliiiilllilliilililiiiilli/Moana
